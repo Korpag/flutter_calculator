@@ -1,6 +1,7 @@
 # flutter_calculator
 
-A new Flutter application.
+![alt text](https://github.com/Korpag/flutter_calculator/blob/master/assets/images/homePage.png)
+
 
 ## Getting Started
 
